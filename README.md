@@ -1,16 +1,21 @@
-### Hi there 👋
+# KFCgamingFR
 
-<!--
-**KFCgaming/KFCgaming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="header" align="center">
+  <img src="https://cdn.discordapp.com/avatars/852933111218307134/1395fb8ac8fb507fa9d0dbe2026b438c.png?size=1024" width="100"/>
+</div>
 
-Here are some ideas to get you started:
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/UC2BS8WfI9nFKZciHwomz7eg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm **KFCgamingFR**, I live in **France** and I love everything related to **programming**.
+
+I'm **new to programming** and I code mostly in **Python**.
+
+## My rank in GitHub
+
+<p align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=KFCgaming&show_icons=true&theme=gotham" />
+<img src="https://activity-graph.herokuapp.com/graph?username=KFCgaming&theme=gotham"/>
+</p>
+
+## 
+
