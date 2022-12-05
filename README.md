@@ -14,7 +14,6 @@ I'm **new to programming** and I code mostly in **Python**.
 
 <p align="center">
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=KFCgaming&show_icons=true&theme=gotham" />
-<img src="https://activity-graph.herokuapp.com/graph?username=KFCgaming&theme=gotham"/>
 </p>
 
 ## 
