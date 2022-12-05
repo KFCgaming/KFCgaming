@@ -1,7 +1,7 @@
 # KFCgamingFR
 
 <div id="header" align="center">
-  <img src="https://cdn.discordapp.com/avatars/852933111218307134/1395fb8ac8fb507fa9d0dbe2026b438c.png?size=1024" width="100"/>
+  <img src="https://user-images.githubusercontent.com/53215372/205709784-9143b72a-d907-44df-bfd4-c05808c82745.png" width="100"/>
 </div>
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/UC2BS8WfI9nFKZciHwomz7eg)
@@ -17,5 +17,4 @@ I'm **new to programming** and I code mostly in **Python**.
 </p>
 
 ## 
-
 
