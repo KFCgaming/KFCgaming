@@ -10,6 +10,8 @@ I'm **KFCgamingFR**, I live in **France** and I love everything related to **pro
 
 I'm **new to programming** and I code mostly in **Python**.
 
+And also, i like **CHAT GPT** 😅
+
 ## My rank in GitHub
 
 <p align="center">
